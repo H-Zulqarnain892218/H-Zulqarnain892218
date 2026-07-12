@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Code-Style Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Gul%20E%20Maheen%20Shah&fontSize=50&fontFace=Fira%20Code&fontColor=36BCF7&animation=twinkling&desc=%3C%20Software%20Engineer%20%2F%3E%20%7C%20%7B%20AI%20Enthusiast%20%7D&descAlignY=65&descAlign=50&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Gul%20E%20Maheen%20Shah&fontSize=50&fontFace=Fira%20Code&fontColor=36BCF7&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50&descSize=20" width="100%" />
 </div>
 
 <h1 align="center">Hi there, I'm Gul E Maheen Shah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
@@ -19,18 +19,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=2500&color=36BCF7&center=true&vCenter=true&width=800&lines=Passionate+Artificial+Intelligence+student...;Software+developer+building+logic-driven+systems...;Bridging+raw+algorithms+and+beautifully+animated+UI..." alt="Typing SVG About" />
 </p>
 
-{
-  "developer": {
-    "name": "Gul E Maheen Shah",
-    "education": "Pursuing a Bachelor of Science in Artificial Intelligence.",
-    "focus": [
-      "Object-Oriented Programming",
-      "Digital Logic Design",
-      "Web Interfaces"
-    ],
-    "fact": "I love turning complex logic into seamless, interactive experiences."
-  }
-}
 
 ## 🚀 Featured Projects
 
