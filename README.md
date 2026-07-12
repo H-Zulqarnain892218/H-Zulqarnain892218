@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=62" width="100%" />
 </div>
 
-<h1 align="center">Hi there, I'm Gul E Maheen Shah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Syed Zulqarnain Haider <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <!-- Animated Typing Bio (Code Font) -->
 <p align="center">
