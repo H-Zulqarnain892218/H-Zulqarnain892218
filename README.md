@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=62" width="100%" />
 </div>
 
-<h1 align="center">Hi there, I'm Syed Zulqarnain Haider <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Gul E Maheen Shah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <!-- Animated Typing Bio (Code Font) -->
 <p align="center">
@@ -23,16 +23,100 @@
   </a>
 </p>
 
-```json
 {
   "developer": {
-    "name": "Syed Zulqarnain Haider",
-    "education": "🎓 Pursuing a Bachelor of Science in Artificial Intelligence.",
+    "name": "Gul E Maheen Shah",
+    "education": "Pursuing a Bachelor of Science in Artificial Intelligence.",
     "focus": [
-      "💻 Object-Oriented Programming",
-      "💻 Digital Logic Design",
-      "💻 Web Interfaces"
+      "Object-Oriented Programming",
+      "Digital Logic Design",
+      "Web Interfaces"
     ],
-    "fact": "⚡ I love turning complex logic into seamless, interactive experiences."
+    "fact": "I love turning complex logic into seamless, interactive experiences."
   }
 }
+
+## 🚀 Featured Projects
+
+Here are some of the complex systems and applications I've engineered:
+
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚆 Smart Transit</h3>
+      <p align="center">A multi-tier <b>C++ GUI application</b> built with complex logic, featuring highly customized string manipulation and custom date classes for sophisticated data handling.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏠 Home Smart System</h3>
+      <p align="center">A hybrid hardware-software project. Engineered the core architecture using <b>Digital Logic Design in Proteus</b> and paired it with a smooth, fully animated web-based interactive interface.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧩 Maze Solver</h3>
+      <p align="center">An advanced C++ algorithmic application that heavily utilizes <b>recursion and backtracking</b> to compute optimal paths through dynamic environments.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 HMPS</h3>
+      <p align="center">A comprehensive <b>Hospital Management System</b> designed to securely handle, route, and organize administrative healthcare data efficiently.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">♟️ Chess Engine</h3>
+      <p align="center">A fully functional, logic-driven implementation of the classic board game, handling complex movement rules and game-state validations.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 Encrypted Diary</h3>
+      <p align="center">A secure, private data-logging application focused on cryptographic principles to keep user entries completely safe and localized.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <!-- Animated Skill Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,react,github,git,vscode,figma&perline=10" alt="Tech Stack" />
+  </a>
+</p>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <!-- GitHub Stats Card (Using Stable Mirror) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=H-Zulqarnain892218&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- GitHub Top Languages (Using Stable Mirror) -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=H-Zulqarnain892218&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
+</p>
+
+<br/>
+
+## 📬 Reach Me Out
+
+<p align="center">
+  <a href="mailto:syedzulqarnain.nust.25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/syed-zulqarnain-haider-33291141a?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discordapp.com/users/zulqarnain.892218">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://wa.me/923032400841">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
