@@ -79,14 +79,14 @@ Here are some of the complex systems and applications I've engineered:
 <p align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=H-Zulqarnain892218&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <!-- GitHub Top Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-Zulqarnain892218&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
 </p>
 
