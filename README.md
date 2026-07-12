@@ -16,12 +16,26 @@
 
 ## 💫 About Me
 
-I am a passionate Artificial Intelligence student and software developer dedicated to building elegant, logic-driven systems. I thrive on bridging the gap between raw algorithmic problem-solving and beautifully animated user interfaces. 
+<p align="center">
+  <!-- Animated Typing Transition -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=2500&color=36BCF7&center=true&vCenter=true&width=800&lines=Passionate+Artificial+Intelligence+student...;Software+developer+building+logic-driven+systems...;Bridging+raw+algorithms+and+beautifully+animated+UI..." alt="Typing SVG" />
+  </a>
+</p>
 
-* 🎓 **Education:** Pursuing a Bachelor of Science in Artificial Intelligence.
-* 💻 **Focus:** Object-Oriented Programming, Digital Logic Design, and Web Interfaces.
-* ⚡ **Fact:** I love turning complex logic into seamless, interactive experiences.
-
+<!-- Code-Type Presentation for your Info -->
+```json
+{
+  "developer": {
+    "education": "🎓 Pursuing a Bachelor of Science in Artificial Intelligence.",
+    "focus": [
+      "💻 Object-Oriented Programming",
+      "💻 Digital Logic Design",
+      "💻 Web Interfaces"
+    ],
+    "fact": "⚡ I love turning complex logic into seamless, interactive experiences."
+  }
+}
 <br/>
 
 ## 🚀 Featured Projects
