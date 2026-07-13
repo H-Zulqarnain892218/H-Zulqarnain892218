@@ -101,6 +101,18 @@ Here are some of the complex systems and applications I've engineered:
 
 <br/>
 
+## 🚀 Featured Projects
+
+Here are some of the complex systems and applications I've engineered:
+
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/248270845/620598757-01254eae-21d0-45fc-8f83-80c54795f7b1.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM5MDIyMjcsIm5iZiI6MTc4MzkwMTkyNywicGF0aCI6Ii8yNDgyNzA4NDUvNjIwNTk4NzU3LTAxMjU0ZWFlLTIxZDAtNDVmYy04ZjgzLTgwYzU0Nzk1ZjdiMS5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxM1QwMDE4NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kY2VlZmYxN2Q2OTIzZGY3ODdkMWM5YjJmM2FhY2ZiMWU4ODJjZWJmNTVlMWEwMzU0MTcxMTIyODJjYWRkNDEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZzdmclMkJ4bWwifQ.UF9ITE6VzJqAmkamAdGg5ajF-iVCjtWnJjTdtxz81xs" alt="Projects Slider" width="100%" />
+</div>
+
+<br/>
+
+
+
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
