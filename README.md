@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Animated Code-Style Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Gul%20E%20Maheen%20Shah&fontSize=50&fontFace=Fira%20Code&fontColor=36BCF7&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50&descSize=20" width="100%" />
+  <!-- Animated Code-Style Header Banner (Black & White Theme) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Welcome%20to%20My%20Portfolio&fontSize=50&fontFace=Fira%20Code&fontColor=FFFFFF&animation=twinkling&desc=Syed%20Zulqarnain%20Haider&descAlignY=65&descAlign=50&descSize=22" alt="Welcome to My Portfolio" width="100%" />
 </div>
 
 <div align="center">
