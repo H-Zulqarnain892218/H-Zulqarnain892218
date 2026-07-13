@@ -3,6 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Gul%20E%20Maheen%20Shah&fontSize=50&fontFace=Fira%20Code&fontColor=36BCF7&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50&descSize=20" width="100%" />
 </div>
 
+<div align="center">
+  <!-- My Custom Glowing Banner -->
+  <img src="https://github.com/H-Zulqarnain892218/H-Zulqarnain892218/issues/1#issue-4869294556" alt="My Portfolio Banner" width="100%" />
+</div>
+
+
 <h1 align="center">Hi there, I'm Gul E Maheen Shah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <!-- Animated Typing Bio (Code Font) -->
