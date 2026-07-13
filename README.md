@@ -13,16 +13,8 @@
 
 <!-- Animated Typing Bio (Code Font) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=BS+Artificial+Intelligence+Student;Based+in+Quetta,+Pakistan;Building+Smart+Systems+%26+Algorithms;Crafting+Logic+in+C%2B%2B,+Proteus+%26+Web" alt="Typing SVG Bio" />
-</p>
-
-<br/>
-
-## 💫 About Me
-
-<p align="center">
-  <!-- Animated Typing Transition for About Section -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=2500&color=36BCF7&center=true&vCenter=true&width=800&lines=Passionate+Artificial+Intelligence+student...;Software+developer+building+logic-driven+systems...;Bridging+raw+algorithms+and+beautifully+animated+UI..." alt="Typing SVG About" />
+  <!-- Updated Yellow Typing Bio (Code Font) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=BS+Artificial+Intelligence+Student;Based+in+Quetta,+Pakistan;Building+Smart+Systems+%26+Algorithms;Crafting+Logic+in+C%2B%2B,+Proteus+%26+Web" alt="Typing SVG Bio" />
 </p>
 
 ## 💫 About Me
