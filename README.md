@@ -1,10 +1,10 @@
 <div align="center">
-  <!-- Large Typewriter Header -->
+  <!-- Welcome to my git portfolio Header -->
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=150&lines=Welcome+to+My+Git+Portfolio" alt="Welcome to My Portfolio" />
 </div>
 
 <div align="center">
-  <!-- My Custom Glowing Banner -->
+  
   <img src="https://private-user-images.githubusercontent.com/248270845/620597190-440c09bf-6bde-413c-a324-14fa824bafa0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM5MDEzMDUsIm5iZiI6MTc4MzkwMTAwNSwicGF0aCI6Ii8yNDgyNzA4NDUvNjIwNTk3MTkwLTQ0MGMwOWJmLTZiZGUtNDEzYy1hMzI0LTE0ZmE4MjRiYWZhMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxM1QwMDAzMjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNmZlNTE3MDY3N2QyMDk2ZGU5YzYxYjEzOGIwZDZkZjcyZWFiNTAzYmIzYjA0OTY1N2FlNTc4Zjc4N2YwNjY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.sZb7cPAMsLjX1wbkgi1_r0DtWxjLXnW-sNaDZ6xfIok" alt="My Portfolio Banner" width="100%" />
 </div>
 
@@ -65,14 +65,14 @@ Here are some of the complex systems and applications I've engineered:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Stats Card (Using Stable Mirror) -->
+  <!-- GitHub Stats Card (Using Stable Mirror hehe) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=H-Zulqarnain892218&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
-  <!-- GitHub Top Languages (Using Stable Mirror) -->
+  <!-- GitHub Top Languages (Using Stable Mirror again) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=H-Zulqarnain892218&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
