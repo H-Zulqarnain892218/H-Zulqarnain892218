@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Large Typewriter Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=150&lines=Welcome+to+My+Portfolio" alt="Welcome to My Portfolio" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=150&lines=Welcome+to+My+Github+Portfolio" alt="Welcome to My Portfolio" />
 </div>
 
 <div align="center">
