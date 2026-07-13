@@ -25,6 +25,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=2500&color=36BCF7&center=true&vCenter=true&width=800&lines=Passionate+Artificial+Intelligence+student...;Software+developer+building+logic-driven+systems...;Bridging+raw+algorithms+and+beautifully+animated+UI..." alt="Typing SVG About" />
 </p>
 
+## 💫 About Me
+
+<p align="center">
+  <!-- Animated Typing Transition for About Section -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=2500&color=36BCF7&center=true&vCenter=true&width=800&lines=Passionate+Artificial+Intelligence+student...;Software+developer+building+logic-driven+systems...;Bridging+raw+algorithms+and+beautifully+animated+UI..." alt="Typing SVG" />
+</p>
+
+<div align="center">
+  <!-- Animated Rounded About Me Box -->
+  <img src="https://private-user-images.githubusercontent.com/248270845/620600661-5755034b-f0f5-4a37-8f7a-15497c483dc1.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM5MDMzNDksIm5iZiI6MTc4MzkwMzA0OSwicGF0aCI6Ii8yNDgyNzA4NDUvNjIwNjAwNjYxLTU3NTUwMzRiLWYwZjUtNGEzNy04ZjdhLTE1NDk3YzQ4M2RjMS5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxM1QwMDM3MjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mM2M3NTY2NDQzMzJkYWE1ZTc0NDUwZmJlNzM3NTdjOWVhN2MxZmU0YjdhYzEyMDg5YzU4ZGE1NWY4YzFlY2U3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZzdmclMkJ4bWwifQ.Od2BNXUoI3plkUCOb3UReHz1TbeKjah980pPWBAj8D8
+" alt="About Me" width="100%" />
+</div>
+
+<br/>
 
 ## 🚀 Featured Projects
 
