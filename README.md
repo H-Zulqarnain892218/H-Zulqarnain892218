@@ -5,7 +5,7 @@
 
 <div align="center">
   <!-- My Custom Glowing Banner -->
-  <img src="https://github.com/H-Zulqarnain892218/H-Zulqarnain892218/issues/1#issue-4869294556" alt="My Portfolio Banner" width="100%" />
+  <img src="https://private-user-images.githubusercontent.com/248270845/620597190-440c09bf-6bde-413c-a324-14fa824bafa0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM5MDEzMDUsIm5iZiI6MTc4MzkwMTAwNSwicGF0aCI6Ii8yNDgyNzA4NDUvNjIwNTk3MTkwLTQ0MGMwOWJmLTZiZGUtNDEzYy1hMzI0LTE0ZmE4MjRiYWZhMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxM1QwMDAzMjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNmZlNTE3MDY3N2QyMDk2ZGU5YzYxYjEzOGIwZDZkZjcyZWFiNTAzYmIzYjA0OTY1N2FlNTc4Zjc4N2YwNjY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.sZb7cPAMsLjX1wbkgi1_r0DtWxjLXnW-sNaDZ6xfIok" alt="My Portfolio Banner" width="100%" />
 </div>
 
 
