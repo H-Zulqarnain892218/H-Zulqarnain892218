@@ -26,7 +26,7 @@
 </p>
 
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects 1
 
 Here are some of the complex systems and applications I've engineered:
 
@@ -62,6 +62,42 @@ Here are some of the complex systems and applications I've engineered:
     </td>
   </tr>
 </table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+Here are some of the complex systems and applications I've engineered:
+
+<details>
+  <summary><b>🚆 Smart Transit</b></summary>
+  <p>A multi-tier <b>C++ GUI application</b> built with complex logic, featuring highly customized string manipulation and custom date classes for sophisticated data handling.</p>
+</details>
+
+<details>
+  <summary><b>🏠 Home Smart System</b></summary>
+  <p>A hybrid hardware-software project. Engineered the core architecture using <b>Digital Logic Design in Proteus</b> and paired it with a smooth, fully animated web-based interactive interface.</p>
+</details>
+
+<details>
+  <summary><b>🧩 Maze Solver</b></summary>
+  <p>An advanced C++ algorithmic application that heavily utilizes <b>recursion and backtracking</b> to compute optimal paths through dynamic environments.</p>
+</details>
+
+<details>
+  <summary><b>🏥 HMPS</b></summary>
+  <p>A comprehensive <b>Hospital Management System</b> designed to securely handle, route, and organize administrative healthcare data efficiently.</p>
+</details>
+
+<details>
+  <summary><b>♟️ Chess Engine</b></summary>
+  <p>A fully functional, logic-driven implementation of the classic board game, handling complex movement rules and game-state validations.</p>
+</details>
+
+<details>
+  <summary><b>🔐 Encrypted Diary</b></summary>
+  <p>A secure, private data-logging application focused on cryptographic principles to keep user entries completely safe and localized.</p>
+</details>
 
 <br/>
 
