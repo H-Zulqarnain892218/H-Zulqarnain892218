@@ -1,0 +1,54 @@
+<svg width="800" height="440" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .box {
+      fill: #0D1117;
+      stroke: #30363d;
+      stroke-width: 2;
+      rx: 15;
+      animation: floatIn 1.2s ease-out forwards;
+      opacity: 0;
+    }
+    .text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 16.5px;
+      fill: #C9D1D9;
+      opacity: 0;
+      animation: fadeIn 1.2s ease-out 0.4s forwards;
+    }
+    .highlight {
+      fill: #36BCF7;
+      font-weight: 600;
+    }
+    @keyframes floatIn {
+      0% { transform: translateY(20px); opacity: 0; }
+      100% { transform: translateY(0); opacity: 1; }
+    }
+    @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+  </style>
+
+  <!-- Animated Rounded Background Box -->
+  <rect width="796" height="436" x="2" y="2" class="box"/>
+
+  <!-- Perfectly Spaced Text Content -->
+  <g class="text">
+    <text x="35" y="55">I am a <tspan class="highlight">3rd semester Artificial Intelligence student</tspan> passionate about solving</text>
+    <text x="35" y="80">complex logic problems and building robust digital architecture. I believe the</text>
+    <text x="35" y="105">best developers don’t just write code; they design systems that can make an impact.</text>
+
+    <text x="35" y="155">My technical foundation is built on <tspan class="highlight">C++ and SQL</tspan>, allowing me to understand the</text>
+    <text x="35" y="180">deep mechanics of object-oriented programming and database management. I actively</text>
+    <text x="35" y="205">leverage modern <tspan class="highlight">AI-assisted workflows</tspan> for rapid prototyping, which allows me to</text>
+    <text x="35" y="230">focus heavily on high-level system architecture, algorithmic design, and backend logic.</text>
+
+    <text x="35" y="280">Beyond coursework, I am driven by <tspan class="highlight">practical application</tspan>. Whether it is engineering</text>
+    <text x="35" y="305">the backend for a smart transit system, designing comprehensive management software,</text>
+    <text x="35" y="330">or organizing large-scale e-gaming events, I enjoy taking a project from the</text>
+    <text x="35" y="355">initial blueprint to the final execution.</text>
+
+    <text x="35" y="405">I am currently exploring new technologies and always open to connecting with fellow</text>
+    <text x="35" y="430"><tspan class="highlight">tech enthusiasts, developers, and industry professionals.</tspan></text>
+  </g>
+</svg>

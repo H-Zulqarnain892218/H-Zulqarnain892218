@@ -1,0 +1,86 @@
+<svg width="800" height="250" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .slide {
+      opacity: 0;
+      animation: slideAnim 24s infinite;
+    }
+    .s1 { animation-delay: 0s; }
+    .s2 { animation-delay: 4s; }
+    .s3 { animation-delay: 8s; }
+    .s4 { animation-delay: 12s; }
+    .s5 { animation-delay: 16s; }
+    .s6 { animation-delay: 20s; }
+    
+    @keyframes slideAnim {
+      0% { transform: translateX(800px); opacity: 0; }
+      4% { transform: translateX(0); opacity: 1; }
+      12% { transform: translateX(0); opacity: 1; }
+      16.66% { transform: translateX(-800px); opacity: 0; }
+      100% { transform: translateX(-800px); opacity: 0; }
+    }
+
+    text {
+      font-family: 'Fira Code', 'Courier New', Courier, monospace;
+      fill: #FFFFFF;
+    }
+    .title {
+      font-size: 28px;
+      font-weight: bold;
+      fill: #36BCF7;
+    }
+    .desc {
+      font-size: 16px;
+    }
+    .bg {
+      fill: #0D1117;
+      stroke: #30363d;
+      stroke-width: 2;
+      rx: 15;
+    }
+  </style>
+
+  <!-- Dark Background Box -->
+  <rect width="796" height="246" x="2" y="2" class="bg"/>
+
+  <!-- Project 1 -->
+  <g class="slide s1">
+    <text x="400" y="100" text-anchor="middle" class="title">🚆 Smart Transit</text>
+    <text x="400" y="150" text-anchor="middle" class="desc">A multi-tier C++ GUI application built with complex logic,</text>
+    <text x="400" y="180" text-anchor="middle" class="desc">featuring custom string manipulation and custom date classes.</text>
+  </g>
+
+  <!-- Project 2 -->
+  <g class="slide s2">
+    <text x="400" y="100" text-anchor="middle" class="title">🏠 Home Smart System</text>
+    <text x="400" y="150" text-anchor="middle" class="desc">Engineered the core architecture using Digital Logic Design</text>
+    <text x="400" y="180" text-anchor="middle" class="desc">in Proteus, paired with a smooth animated web interface.</text>
+  </g>
+
+  <!-- Project 3 -->
+  <g class="slide s3">
+    <text x="400" y="100" text-anchor="middle" class="title">🧩 Maze Solver</text>
+    <text x="400" y="150" text-anchor="middle" class="desc">An advanced C++ algorithmic application that heavily utilizes</text>
+    <text x="400" y="180" text-anchor="middle" class="desc">recursion and backtracking to compute optimal paths.</text>
+  </g>
+
+  <!-- Project 4 -->
+  <g class="slide s4">
+    <text x="400" y="100" text-anchor="middle" class="title">🏥 HMPS</text>
+    <text x="400" y="150" text-anchor="middle" class="desc">A comprehensive Hospital Management System designed to securely</text>
+    <text x="400" y="180" text-anchor="middle" class="desc">handle, route, and organize administrative healthcare data.</text>
+  </g>
+
+  <!-- Project 5 -->
+  <g class="slide s5">
+    <text x="400" y="100" text-anchor="middle" class="title">♟️ Chess Engine</text>
+    <text x="400" y="150" text-anchor="middle" class="desc">A fully functional, logic-driven implementation of the classic</text>
+    <text x="400" y="180" text-anchor="middle" class="desc">board game, handling complex movement rules and validations.</text>
+  </g>
+
+  <!-- Project 6 -->
+  <g class="slide s6">
+    <text x="400" y="100" text-anchor="middle" class="title">🔐 Encrypted Diary</text>
+    <text x="400" y="150" text-anchor="middle" class="desc">A secure data-logging application focused on cryptographic</text>
+    <text x="400" y="180" text-anchor="middle" class="desc">principles to keep user entries completely safe and localized.</text>
+  </g>
+</svg>
