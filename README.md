@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  <img src="https://private-user-images.githubusercontent.com/248270845/620597190-440c09bf-6bde-413c-a324-14fa824bafa0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM5MDEzMDUsIm5iZiI6MTc4MzkwMTAwNSwicGF0aCI6Ii8yNDgyNzA4NDUvNjIwNTk3MTkwLTQ0MGMwOWJmLTZiZGUtNDEzYy1hMzI0LTE0ZmE4MjRiYWZhMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxM1QwMDAzMjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNmZlNTE3MDY3N2QyMDk2ZGU5YzYxYjEzOGIwZDZkZjcyZWFiNTAzYmIzYjA0OTY1N2FlNTc4Zjc4N2YwNjY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.sZb7cPAMsLjX1wbkgi1_r0DtWxjLXnW-sNaDZ6xfIok" alt="My Portfolio Banner" width="100%" />
+  <img src="./Github banner.png" alt="My Portfolio Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 <div align="center">
   <!-- Animated Rounded About Me Box -->
-  <img src="https://private-user-images.githubusercontent.com/248270845/620600661-5755034b-f0f5-4a37-8f7a-15497c483dc1.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM5MDM1MTIsIm5iZiI6MTc4MzkwMzIxMiwicGF0aCI6Ii8yNDgyNzA4NDUvNjIwNjAwNjYxLTU3NTUwMzRiLWYwZjUtNGEzNy04ZjdhLTE1NDk3YzQ4M2RjMS5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxM1QwMDQwMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01N2VlZjhjZmQ1MWM3MDQ5M2MxZTE2ZTdkNmI5M2ZmYzcyZDI2MWNiZTdiNTRiZGFhNGJmNjFjNDg2OTUzOTFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZzdmclMkJ4bWwifQ.FHEN6tJWrm89BSgKDGaKeT4CmN3VE8k9aykZFtOYl8I" alt="About Me" width="100%" />
+  <img src="./about-me.svg" alt="About Me" width="100%" />
 </div>
 
 <br/>
@@ -39,7 +39,7 @@
 Here are some of the complex systems and applications I've engineered:
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/248270845/620598757-01254eae-21d0-45fc-8f83-80c54795f7b1.svg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODM5MDIyMjcsIm5iZiI6MTc4MzkwMTkyNywicGF0aCI6Ii8yNDgyNzA4NDUvNjIwNTk4NzU3LTAxMjU0ZWFlLTIxZDAtNDVmYy04ZjgzLTgwYzU0Nzk1ZjdiMS5zdmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNzEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDcxM1QwMDE4NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kY2VlZmYxN2Q2OTIzZGY3ODdkMWM5YjJmM2FhY2ZiMWU4ODJjZWJmNTVlMWEwMzU0MTcxMTIyODJjYWRkNDEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZzdmclMkJ4bWwifQ.UF9ITE6VzJqAmkamAdGg5ajF-iVCjtWnJjTdtxz81xs" alt="Projects Slider" width="100%" />
+  <img src="./projects-slider.svg" alt="Projects Slider" width="100%" />
 </div>
 
 <br/>
